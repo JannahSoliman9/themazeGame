@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>coinSound.wav</file>
+        <file>wohoSound.mp3</file>
+    </qresource>
+</RCC>
